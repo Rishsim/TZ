@@ -1,0 +1,13 @@
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\bin\Debug\PObjectModel.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\bin\Debug\PObjectModel.pdb
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\bin\Debug\WebDriver.dll
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\bin\Debug\WebDriver.Support.dll
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\obj\Debug\PObjectModel.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\obj\Debug\PObjectModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\obj\Debug\PObjectModel.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\obj\Debug\PObjectModel.csproj.CopyComplete
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\obj\Debug\PObjectModel.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\PObjectModel\obj\Debug\PObjectModel.pdb
