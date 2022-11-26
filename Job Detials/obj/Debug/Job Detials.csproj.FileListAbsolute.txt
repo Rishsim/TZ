@@ -1,0 +1,13 @@
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\bin\Debug\Job Detials.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\bin\Debug\Job Detials.pdb
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\bin\Debug\WebDriver.dll
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\bin\Debug\WebDriver.Support.dll
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\obj\Debug\Job Detials.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\obj\Debug\Job Detials.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\obj\Debug\Job Detials.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\obj\Debug\Job Detials.csproj.CopyComplete
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\obj\Debug\Job Detials.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\Job Detials\obj\Debug\Job Detials.pdb
